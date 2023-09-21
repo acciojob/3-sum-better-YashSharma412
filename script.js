@@ -22,7 +22,7 @@ function threeSum(arr, target) {
             }
         }
         console.log(min_sum);
-	return min_sum;
+	return parseInt(min_sum);
     }
 
 
